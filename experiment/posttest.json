@@ -1,0 +1,46 @@
+[{
+	"question": "Fluorides present in water is determined by _________________ . ",
+	"answers": {
+		"a": "Ion chromatography Method ",
+		"b": "Colorimetric Method or Ion Selective Method",
+		"c": "Titrimetric Method",
+		"d": "Electrolytic Method"
+	},
+	"correctAnswer": "b"
+}, {
+	"question": "Colorimetric method is constricted to _________________ .",
+	"answers": {
+		"a": "Low concentration of Chlorides",
+		"b": "High concentration of Chlorides",
+		"c": "Low concentration of Fluorides",
+		"d": "High concentration of Fluorides"
+	},
+	"correctAnswer": "c"
+}, {
+	"question": "Higher concentration of Fluorides can be determined by _________________ . ",
+	"answers": {
+		"a": "Ion chromatography Method ",
+		"b": "Ion Selective Method",
+		"c": "Titrimetric Method",
+		"d": "Electrolytic Method"
+	},
+	"correctAnswer": "b"
+}, {
+	"question": "The key element in the fluoride electrode is the _______ doped lanthanum fluoride crystal. ",
+	"answers": {
+		"a": "Electrolytic-type",
+		"b": "Electrochemical-type",
+		"c": "Laser-type",
+		"d": "None of the above"
+	},
+	"correctAnswer": "c"
+}, {
+	"question": "The reference electrode used in ion selective method is _________________.",
+	"answers": {
+		"a": "Na/NaCl",
+		"b": "Ca/CaCl",
+		"c": "Mg/MgCl",
+		"d": "Ag/AgCl"
+	},
+	"correctAnswer": "d"
+}]
