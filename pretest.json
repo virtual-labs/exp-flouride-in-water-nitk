@@ -1,0 +1,46 @@
+[{
+	"question": "The fluoride electrode is an __________________.",
+	"answers": {
+		"a": "Ion Chromatic Sensor",
+		"b": "Displacement Sensor ",
+		"c": "Discharge Sensor",
+		"d": "Ion-Selective Sensor"
+	},
+	"correctAnswer": "d"
+}, {
+	"question": "By maintaining pH __________ complex formation of hydrogen fluoride is avoided.",
+	"answers": {
+		"a": "Below 5.0",
+		"b": "Above 5.0",
+		"c": "Equal to 7.0",
+		"d": "Above 7.0"
+	},
+	"correctAnswer": "b"
+}, {
+	"question": "Interference of hydroxide ion is avoided by maintaining the pH ___________.",
+	"answers": {
+		"a": "Below 5.0",
+		"b": "Above 5.0",
+		"c": "Equal to 7.0",
+		"d": "Above 7.0"
+	},
+	"correctAnswer": "a"
+}, {
+	"question": "TISAB – Total Ionic Strength Adjusting Buffer is ______________.",
+	"answers": {
+		"a": "Chloride Buffer",
+		"b": "Bromide Buffer",
+		"c": "Ammonia Buffer",
+		"d": "Fluoride Buffer"
+	},
+	"correctAnswer": "d"
+}, {
+	"question": "Fluoride concentration of___________ causes dental carries.   ",
+	"answers": {
+		"a": "Less than 0.2mg/l",
+		"b": " Greater than 0.2mg/l",
+		"c": "Less than 0.8 mg/l",
+		"d": " Greater than 0.8mg/l"
+	},
+	"correctAnswer": "c"
+}]
